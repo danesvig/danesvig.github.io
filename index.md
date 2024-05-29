@@ -35,7 +35,6 @@ See my updated [CV](cv.pdf).
 - **Graduate and Undergraduate Researcher** - [Department of Mathematics](https://math.byu.edu/) at [Brigham Young University](https://www.byu.edu/), 2016-2020
   - High-order finite difference methods for wave equations: Prof. [Vianey Villamizar](https://mathdept.byu.edu/~vianey/))
     
-    
 - **Research Intern** - [National Security Agency](microsoft.com/en-us/), Summer 2018
   - Graph optimization, language modeling, n-gram techniques
 
@@ -44,19 +43,25 @@ See my updated [CV](cv.pdf).
     
 ## Publications and Preprints
 
-- V. Villamizar, T. Khajah, S. Acosta, D. Grundvig, J. Badger, O. Rojas [_High order local absorbing boundary conditions for acoustic and elastic scattering_](https://doi.org/10.1121/1.5146764). Journal of the Acoustical Society of America, Vol. 148, pages 2451 (2020). https://doi.org/10.1121/1.5146764} 
+- D. Grundvig [_Line-Search Based Optimization using Function Approximations with Tunable Accuracy_](https://hdl.handle.net/1911/115072). Department of Computational Applied Mathematics and Operations Research, Rice University, (2023). https://hdl.handle.net/1911/115072
+
+- V. Villamizar, T. Khajah, S. Acosta, D. Grundvig, J. Badger, O. Rojas [_High order local absorbing boundary conditions for acoustic and elastic scattering_](https://doi.org/10.1121/1.5146764). Journal of the Acoustical Society of America, Vol. 148, pages 2451 (2020). https://doi.org/10.1121/1.5146764.
+  
 - V. Villamizar, D. Grundvig, O. Rojas, S. Acosta [_High order methods for acoustic scattering: Coupling farfield expansions ABC with deferred-correction methods_](https://doi.org/10.1016/j.wavemoti.2020.102529). Wave Motion, Vol. 95, pages 102529 (2020). https://doi.org/10.1016/j.wavemoti.2020.102529.
 
+- D. Grundvig [_High Order Numerical Methods for Problems in Wave Scattering_](http://hdl.lib.byu.edu/1877/etd11364). Department of Mathematics, Brigham Young University, (2020). http://hdl.lib.byu.edu/1877/etd11364
+
 ## Talks and Presentations
-- D. Grundvig, V. Villamizar _Highly Accurate Equation Based Finite Difference Method Coupled with Farfield ABC for Acoustic Scattering_. Presentation, SIAM Central States Section, Colorado State University, 2017
-
-- D. Grundvig, M. Heinkenschloss _Line-search methods for unconstrained optimization with inexactness arising from reduced order models_. Presentation, SIAM Texas-Louisiana Section, University of Houston, 2022
-
+- D. Grundvig, M. Heinkenschloss _Line-Search Based Optimization Using Function Approximations with Tunable Accuracy_ Invited speaker. Department of Mathematics Colloquium, Brigham Young University, 2024
+  
 - D. Grundvig, M. Heinkenschloss _Line-Search Methods for Unconstrained Optimization with Inexactness Arising from Reduced Order Models_. Poster. SIAM Conference on Computational Science and Engineering, Eindhoven University of Technology, 2023
 
 - D. Grundvig, M. Heinkenschloss _Line Search Based Optimization Using Functions with Tunable Accuracy_. Poster, SIAM Texas-Louisiana Section, University of Louisiana Lafayette, 2023
+  
+- D. Grundvig, M. Heinkenschloss _Line-search methods for unconstrained optimization with inexactness arising from reduced order models_. Presentation, SIAM Texas-Louisiana Section, University of Houston, 2022
+  
+- D. Grundvig, V. Villamizar _Highly Accurate Equation Based Finite Difference Method Coupled with Farfield ABC for Acoustic Scattering_. Presentation, SIAM Central States Section, Colorado State University, 2017
 
-- D. Grundvig, M. Heinkenschloss _Line-Search Based Optimization Using Function Approximations with Tunable Accuracy_ Invited speaker. Department of Mathematics Colloquium, Brigham Young University, 2024
 
 ## Honors and Awards
 - [**National Defense Science and Engineering Graduate Fellowship**](https://ndseg.org/), Mar. 2022,
