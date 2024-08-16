@@ -73,13 +73,13 @@ See my updated [CV](cv.pdf).
   - Sponsoring Agency: [Army Research Office](https://arl.devcom.army.mil/who-we-are/aro/).
   
 ## Teaching
+- **Instructor**, Computational Applied Mathematics & Operations Research Department, Rice University
+    - Differential Equations in Science and Engineering, Summer 2024
+      
 - **Instructor**, Department of Mathematics, Brigham Young University
     - Essentials of Calculus, Fall 2018
     - Finite Mathematics, Summer 2019
     - Computational Linear Algebra, Winter-Spring 2020
-
-- **Teaching Assistant**, Department of Computational and Applied Mathematics, Rice University
-    - Differential Equations in Science and Engineering, Summer 2024
 
 - **Teaching Assistant**, Department of Computational and Applied Mathematics, Rice University
     - Differential Equations in Science and Engineering, Spring 2022
