@@ -25,7 +25,7 @@ See my updated [CV](cv.pdf).
 - Reduced-order modeling
 - Optimization
 - PDE constrained optimization
-- Optimization under uncertainty
+- Optimization with Inexactness
 - Numerical methods
 
 ## Research and Work Experience
@@ -42,6 +42,7 @@ See my updated [CV](cv.pdf).
   - Part of team that created two year long sequencce of programming tutorials on scientific computing in Python. Available at [ACME](https://foundations-of-applied-mathematics.github.io)
     
 ## Publications and Preprints
+- D. Grundvig, M. Heinkensclhoss [_Line-Search Based Optimization using Function Approximations with Tunable Accuracy_](https://hdl.handle.net/1911/115072). Submitted, under review
 
 - D. Grundvig [_Line-Search Based Optimization using Function Approximations with Tunable Accuracy_](https://hdl.handle.net/1911/115072). Department of Computational Applied Mathematics and Operations Research, Rice University, (2023). https://hdl.handle.net/1911/115072
 
@@ -52,6 +53,10 @@ See my updated [CV](cv.pdf).
 - D. Grundvig [_High Order Numerical Methods for Problems in Wave Scattering_](http://hdl.lib.byu.edu/1877/etd11364). Department of Mathematics, Brigham Young University, (2020). http://hdl.lib.byu.edu/1877/etd11364
 
 ## Talks and Presentations
+- D. Grundvig, M. Heinkenschloss _Line-Search Based Optimization using Function Approximations with Tunable Accuracy_ Presentation. Modeling and Optimization: Theory and Applications, Lehigh University, 2024
+
+- D. Grundvig _Optimization with Inexactness: Line-Search Algorithms using Reduced Order Models_ Poster. 2024 National Defense Science and Engineering Graduate Fellowship Conference, New Orleans, 2024
+  
 - D. Grundvig, M. Heinkenschloss _Line-Search Based Optimization Using Function Approximations with Tunable Accuracy_ Invited speaker. Department of Mathematics Colloquium, Brigham Young University, 2024
   
 - D. Grundvig, M. Heinkenschloss _Line-Search Methods for Unconstrained Optimization with Inexactness Arising from Reduced Order Models_. Poster. SIAM Conference on Computational Science and Engineering, Eindhoven University of Technology, 2023
