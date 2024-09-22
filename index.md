@@ -53,6 +53,8 @@ See my updated [CV](cv.pdf).
 - D. Grundvig [_High Order Numerical Methods for Problems in Wave Scattering_](http://hdl.lib.byu.edu/1877/etd11364). Department of Mathematics, Brigham Young University, (2020). http://hdl.lib.byu.edu/1877/etd11364
 
 ## Talks and Presentations
+- D. Grundvig, M. Heinkenschloss _Line-search based optimization with online model reduction_ Presentation. Model Reduction and Surrogate Modeling, University of California San Diego, 2024
+
 - D. Grundvig, M. Heinkenschloss _Line-Search Based Optimization using Function Approximations with Tunable Accuracy_ Presentation. Modeling and Optimization: Theory and Applications, Lehigh University, 2024
 
 - D. Grundvig _Optimization with Inexactness: Line-Search Algorithms using Reduced Order Models_ Poster. 2024 National Defense Science and Engineering Graduate Fellowship Conference, New Orleans, 2024
