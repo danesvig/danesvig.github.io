@@ -2,21 +2,21 @@
 <img align="center" width="200" height="200" src="headshot.webp">
 
 ## Bio
-I am currently a fifth year PhD student in the
-[Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) (CMOR)
+I am currently an assistant professor in the [Mathematics Department](https://www.farmingdale.edu/arts-sciences/mth/index.shtml) at Farmingdale State College.
+I received a PhD in Applied Mathematics in August of 2025 from the [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) (CMOR)
 (formerly Computational and Applied Mathematics (CAAM)) at 
 [Rice University](https://www.rice.edu/) in Houston, TX. 
-My PhD research is advised by Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)
-and focuses on developing optimization algorithms for problems with inexact objective and constraint information with applications in reduced order modeling and shape optimization.
-I am currently a [National Defense Science and Engineering Graduate (NDSEG) Fellow](https://ndseg.org/)
+My PhD research was advised by Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)
+and focused on developing optimization algorithms for problems with inexact objective and constraint information with applications in reduced order modeling and shape optimization.
+I was a [National Defense Science and Engineering Graduate (NDSEG) Fellow](https://ndseg.org/)
 sponsored by the [Army Research Office](https://arl.devcom.army.mil/who-we-are/aro/). 
 See my updated [CV](cv.pdf).
 
 ### Contact Info 
-- **Email**: dsg12@rice.edu
+- **Email**: grundvd@farmingdale.edu
 
 ## Education 
-- **Ph.D.**, Computational and Applied Mathematics, Rice University, expected May 2025 
+- **Ph.D.**, Computational and Applied Mathematics, Rice University, August 2025 
 - **M.A.**, Computational and Applied Mathematics, Rice University, May 2023
 - **M.A.**, Mathematics, Brigham Young University, August 2020
 - **B.S.**, Mathematics with Applied and Computational Mathematics Emphasis, Minor in Economics, [Brigham Young University](https://acme.byu.edu/), May 2018
@@ -29,7 +29,10 @@ See my updated [CV](cv.pdf).
 - Numerical methods
 
 ## Research and Work Experience
-- **Graduate Researcher** - [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at [Rice University](https://www.rice.edu/), 2020-present
+- **Assistant Professor** - [Mathematics Department](https://www.farmingdale.edu/arts-sciences/mth/index.shtml) at [Farmingdale State College](https://www.farmingdale.edu/index.shtml), 2025-present
+  - Courses taught: Calculus 1, Precalculus, Methods in Operations Research
+    
+- **Graduate Researcher** - [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at [Rice University](https://www.rice.edu/), 2020-2025
   - Optimization algorithms for problems with inexact objective and constraint information: Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/))
 
 - **Graduate and Undergraduate Researcher** - [Department of Mathematics](https://math.byu.edu/) at [Brigham Young University](https://www.byu.edu/), 2016-2020
@@ -75,6 +78,11 @@ See my updated [CV](cv.pdf).
   - Sponsoring Agency: [Army Research Office](https://arl.devcom.army.mil/who-we-are/aro/).
   
 ## Teaching
+- **Assistant Professor**, Mathematics Department, Farmingdale State College
+    - Calculus 1 with Applications
+    - Precalculus
+    - Methods in Operations Research
+
 - **Instructor**, Computational Applied Mathematics & Operations Research Department, Rice University
     - Differential Equations in Science and Engineering, Summer 2024
       
